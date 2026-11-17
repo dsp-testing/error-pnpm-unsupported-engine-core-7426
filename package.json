@@ -1,0 +1,15 @@
+{
+  "name": "dependabot-pnpm-node-engine-reproduction",
+  "version": "1.0.0",
+  "private": true,
+  "packageManager": "pnpm@8.3.1",
+  "engines": {
+    "node": "18"
+  },
+  "dependencies": {
+    "fetch-factory": "^0.0.1"
+  },
+  "devDependencies": {
+    "etag": "^1.0.0"
+  }
+}
